@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295584370570",
+    "project_id": "filmverse-23c23",
+    "storage_bucket": "filmverse-23c23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295584370570:android:3f8dcad1cd0552234e8273",
+        "android_client_info": {
+          "package_name": "com.example.filmverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIxOj10C9rvFdd_gZahqYdAVG72hqBC1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
